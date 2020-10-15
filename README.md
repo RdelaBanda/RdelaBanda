@@ -10,6 +10,7 @@
 
 - 👨🏽‍💻 I am currently a Business Intelligence developer working mainly with IBM Datastage.
 - 🌱 I am currently doing a PhD using R as the main language for data analysis. I'm interested in expanding to Python at some point.
+- 👨‍🎓 I am currently studying Japanese.
 - 🤔 I am interested in Economics and the application of data analysis in the treatment of economic information.
 - 💬 Ask me anything you want. I'll be willing to help you.
 
