@@ -1,4 +1,4 @@
-# Hi there friends, I'm Roberto || こんにちわ, ロベルト です 👋
+# Hi there friends, I'm Roberto || こんにちわ, ロベルト です
 
 ⚡**LinkedIn's Profiles**⚡
 
