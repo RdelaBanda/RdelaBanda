@@ -20,5 +20,6 @@
 ![Python](https://img.shields.io/badge/Python-Desired-3776AB?style=plastic&logo=Python)
 
 ![VSCode](https://img.shields.io/badge/VSCode-Tool-007ACC?style=plastic&logo=visual-studio-code)
+![RStudio](https://img.shields.io/badge/RStudio-Tool-007ACC?style=plastic&logo=rstudio)
 
 ![Lykansito's github stats](https://github-readme-stats.vercel.app/api?username=lykansito&show_icons=true&hide_border=true)
